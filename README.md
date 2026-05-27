@@ -6,11 +6,7 @@ A Curated Collection of Providers for CloudStream
 
 1. Open **CloudStream** app
 2. Go to **Settings → Extensions**
-3. Shortcode
-   ```
-   eclipsia1
-   ```
-   Or, **Shortcode**: `eclipsia`
+3. **Shortcode**: `eclipsia1`
 4. Click Download Button to install your preferred extensions
 
 # License
