@@ -1,0 +1,9 @@
+{
+  "name": "Eclipsia",
+  "iconUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/icon.png",
+  "description": "Curated Collection of Providers",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/plugins.json"
+  ]
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "iconUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/nm.png",
+        "fileHash": "sha256-56dad9849b5301163488a9a42333908862aa1770585261da9dd90b8e22def3f5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream",
+        "fileSize": 67326,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Eclipsia"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 64,
+        "internalName": "Netmirror",
+        "description": "Netflix, Prime Video, Disney+ Hotstar",
+        "url": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Netmirror/Netmirror.cs3",
+        "name": "Netmirror"
+    },
+    {
+        "url": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Cinefreak/Cinefreak.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Cinefreak",
+        "internalName": "Cinefreak",
+        "authors": [
+            "eclipsia"
+        ],
+        "description": "Bangla, Hindi movies and series",
+        "fileSize": 65630,
+        "repositoryUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream",
+        "language": "bn",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/cf.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f04d895e22699b1a939334c04193e6e8ad6acc7e569475f81af9bfaef4596376",
+        "jarFileSize": 286713,
+        "jarUrl": "https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Cinefreak/Cinefreak.jar",
+        "jarHash": "sha256-2bf163f45732242a18d391d2038d5f3dcd636a8f8412d578d9fee00bf05b0136"
+    }
+]
