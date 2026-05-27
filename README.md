@@ -6,8 +6,17 @@ A Curated Collection of Providers for CloudStream
 
 1. Open **CloudStream** app
 2. Go to **Settings → Extensions**
-3. **Shortcode**: `eclipsia1`
-4. Click Download Button to install your preferred extensions
+3. Add this repository URL:
+   ```
+   https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Eclipsia.json
+   ```
+   Or, **Shortcode**: `eclipsia1` (Uses Github)
+5. Click Download Button to install your preferred extensions
+
+# Mirrors
+
+1. **Forgejo**: [Eclipsia (Forgejo)](https://git.nixnet.services/eclipsia)
+2. **Codeberg**: [Eclipsia (Codeberg)](https://codeberg.org/eclipsia)  
 
 # License
 
