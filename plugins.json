@@ -44,5 +44,29 @@
         "jarFileSize": 286713,
         "jarUrl": "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/refs/heads/main/Cinefreak/Cinefreak.jar",
         "jarHash": "sha256-2bf163f45732242a18d391d2038d5f3dcd636a8f8412d578d9fee00bf05b0136"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-cloudstream/refs/heads/main/CineStream/CineStream.cs3",
+        "status": 1,
+        "version": 439,
+        "name": "CineStream",
+        "internalName": "CineStream",
+        "authors": [
+            "eclipsia"
+        ],
+        "description": "Movies, Series, Anime and AsianDrama",
+        "fileSize": 628190,
+        "repositoryUrl": "https://github.com/Eclipsia-Vault/eclipsia-cloudstream",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "iconUrl": "https://git.nixnet.services/eclipsia/eclipsia-cloudstream/raw/branch/main/icons/cs.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-de6970f02dd2f4adabbeb11a3e5ce1ce0033f3db48dad399aadb791bba44b4c1"
     }
 ]
