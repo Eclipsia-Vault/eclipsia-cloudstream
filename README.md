@@ -6,9 +6,9 @@ A Curated Collection of Providers for CloudStream
 
 1. Open **CloudStream** app
 2. Go to **Settings → Extensions**
-3. Add this repository URL:
+3. Shortcode
    ```
-   https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Eclipsia.json
+   eclipsia1
    ```
    Or, **Shortcode**: `eclipsia`
 4. Click Download Button to install your preferred extensions
