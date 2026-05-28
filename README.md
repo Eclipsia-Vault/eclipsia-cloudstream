@@ -20,7 +20,7 @@ A Curated Collection of Providers for CloudStream
 
 > [!WARNING]
 > ## **DMCA Notice**
-><p align="justify">We notify users that these extensions operate like standard web browsers by retrieving video files from the Internet and do not, in themselves, contravene the Digital Millennium Copyright Act (DMCA). The content accessible through these extensions is hosted by third-party websites during autonomous browsing and is not hosted or distributed by this repository or the CloudStream 3 application. Users are solely responsible for their use of the extensions and must ensure compliance with applicable national, state, and local laws. If you believe any content accessed via the extensions infringes intellectual property rights, please direct your complaints to the hosting websites or file hosts rather than to the repository maintainers or the CloudStream 3 application developers.</p>
+><p align="justify">We hereby issue this notice to clarify that these extensions operate like standard web browsers by retrieving video files from the Internet and do not, in themselves, contravene the Digital Millennium Copyright Act (DMCA). The content accessible through these extensions is hosted by third-party websites during autonomous browsing and is not hosted or distributed by this repository or the CloudStream 3 application. Users are solely responsible for their use of the extensions and must ensure compliance with applicable national, state, and local laws. If you believe any content accessed via the extensions infringes intellectual property rights, please direct your complaints to the hosting websites or file hosts rather than to the repository maintainers or the CloudStream 3 application developers.</p>
 
 # Disclaimer
 <p align="justify">
