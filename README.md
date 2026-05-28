@@ -10,13 +10,13 @@ A Curated Collection of Providers for CloudStream
    ```
    https://codeberg.org/eclipsia/eclipsia-cloudstream/raw/branch/main/Eclipsia.json
    ```
-   Or, **Shortcode**: `eclipsia1` (Uses Github)
+   Or, **Shortcode**: `eclipsia1`
 5. Click Download Button to install your preferred extensions
 
 # Mirrors
 
-1. **Forgejo**: [Eclipsia (Forgejo)](https://git.nixnet.services/eclipsia)
-2. **Codeberg**: [Eclipsia (Codeberg)](https://codeberg.org/eclipsia)  
+1. **Forgejo**: [Eclipsia (Forgejo)](https://git.nixnet.services/eclipsia) (Mirror)
+2. **Codeberg**: [Eclipsia (Codeberg)](https://codeberg.org/eclipsia) (Mirror, SHA256 Repo)
 
 > [!WARNING]
 > ## **DMCA Notice**
